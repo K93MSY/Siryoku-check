@@ -1,5 +1,6 @@
 function setup() {
     createCanvas(windowWidth, windowHeight);
+    frameRate(30)
   }
   let a=0;
   function draw() {
